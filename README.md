@@ -73,3 +73,5 @@
 ### 11) NLP 토큰화가 학습에 안좋은이유
 ### 12) NLP Embedding(Word2vec) 으로 어떻게 차원을 줄이는지
 ### 13) 오토 인코더가 어디에 사용되는지
+
+[<img src = "./imgs/logo_tave.png" width="30%">](https://tavewave.github.io/)  [<img src = "./imgs/logo_tave_research.png" width="60%">](https://taveresearch.github.io/) [<img src = "./imgs/nvidia_dli.png" width="60%">](https://www.nvidia.com/en-us/)  
