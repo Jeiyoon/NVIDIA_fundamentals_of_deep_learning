@@ -11,8 +11,7 @@
 | Overfitting | Hyperparameters |
 | Features | Parameters |
 | Activation functions | Transfer Learning |
-| Frameworks | Hyperparameters |
-| Overfitting | Image Classification |
+| Frameworks | Image Classification |
 | Dropout | Forwards and backwards propagation |
 
 
