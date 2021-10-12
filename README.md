@@ -9,7 +9,7 @@
 | **Softmax classifiers** |  **SGD/GD**  |
 | **Cross-entropy** | **CNNs** |
 | **RNNs/LSTMs** | **GANs** |
-| **AutoEncoders** | **Reinforcement Learning** |
+| **AutoEncoders** | [**Reinforcement Learning**](https://jeiyoon.github.io/data/ipa_3.pdf) |
 | **Natural Language Processing (basics)** | **Training, validation, and test datasets** |
 | **Pooling** | **Padding** |
 | **Overfitting** | **Hyperparameters** |
