@@ -74,4 +74,4 @@
 ### 12) NLP Embedding(Word2vec) 으로 어떻게 차원을 줄이는지
 ### 13) 오토 인코더가 어디에 사용되는지
 
-[<img src = "./imgs/logo_tave.png" width="20%">](https://tavewave.github.io/)  [<img src = "./imgs/logo_tave_research.png" width="40%">](https://taveresearch.github.io/) [<img src = "./imgs/nvidia.png" width="30%">](https://www.nvidia.com/en-us/)  
+[<img src = "./imgs/logo_tave.png" width="30%">](https://tavewave.github.io/)  [<img src = "./imgs/logo_tave_research.png" width="60%">](https://taveresearch.github.io/) [<img src = "./imgs/nvidia.png" width="30%">](https://www.nvidia.com/en-us/)  
