@@ -14,7 +14,7 @@
 | **Pooling** | **Padding** |
 | **Overfitting** | **Hyperparameters** |
 | **Features** | **Parameters** |
-| **Activation** functions** | **Transfer Learning** |
+| **Activation functions** | **Transfer Learning** |
 | **Frameworks** | **Image Classification** |
 | **Dropout** | **Forwards and backwards propagation** |
 
