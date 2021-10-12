@@ -76,4 +76,4 @@
 
 
 
-[<img src = "./imgs/nvidia.png" width="19.5%">](https://www.nvidia.com/en-us/)  
+[<img src = "./imgs/nvidia.png" width="40%">](https://www.nvidia.com/en-us/)  
