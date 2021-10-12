@@ -20,7 +20,7 @@
 
 ### 1) Optimizers
 
-- “An Overview of Gradient Descent Optimization Algorithms”: https://arxiv.org/pdf/1609.04747.pdf
+- “An Overview of Gradient Descent Optimization Algorithms”: https://arxiv.org/pdf/1609.04747.pdf [✔]
 
 - SGD optimizer (Josh Starmer): https://www.youtube.com/watch?v=vMh0zPT0tLI (Note: A little campy)
 
