@@ -75,6 +75,7 @@
 ### 13) 오토 인코더가 어디에 사용되는지
 
 
-\\
+&nbsp;
+
 
 [<img src = "./imgs/nvidia.png" width="40%">](https://www.nvidia.com/en-us/)  
