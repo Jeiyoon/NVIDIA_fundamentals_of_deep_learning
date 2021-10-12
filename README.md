@@ -6,7 +6,7 @@
 
 | RMSE/MSE |  Adam/Adagrad/RMSProp  |
 | :---: | :---: |
-| Softmax classifiers |  SGD/GD  |
+| **Softmax classifiers** |  SGD/GD  |
 | Cross-entropy | CNNs |
 | RNNs/LSTMs | GANs |
 | AutoEncoders | Reinforcement Learning |
