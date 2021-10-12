@@ -57,3 +57,19 @@
 - OpenAI’s GPT2 / GPT3: (Video: https://www.youtube.com/watch?v=8psgEDhT1MM ) (Paper - Language Model for Few-Shot Learners)
 ( https://arxiv.org/pdf/2005.14165.pdf )
 - Microsoft’s Turing-NLG
+
+## 3. Questions
+
+- 1) 전문가랑 딥러닝의 차이
+- 2) 딥러닝이 좋은 이유
+- 3) 모멤텀을 사용하는이유를 왜 최적화라고 하는가
+- 4) validation data를 사용하는 이유
+- 5) 이미지 분류 정규화를 왜 사용하는지
+- 6) CNN 분류 라벨을 왜 정숫값을 사용하지 않는지
+- 7) 드롭아웃
+- 8) 전이학습을 왜 사용하는지
+- 9) 전이학습 파인 튜닝(freeze...)
+- 10) NLP 토큰화
+- 11) NLP 토큰화가 학습에 안좋은이유(?) 잘 기억안남.
+- 12) NLP Embedding(Word2vec) 으로 어떻게 차원을 줄이는지
+- 13) 오토 인코더가 어디에 사용되는지
