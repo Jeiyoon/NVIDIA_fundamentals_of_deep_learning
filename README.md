@@ -1,5 +1,5 @@
 | Topics  | Topics |
-| --- | --- |
+| :---: | :---: |
 | RMSE/MSE |  Adam/Adagrad/RMSProp  |
 | Softmax classifiers |  SGD/GD  |
 | Cross-entropy | CNNs |
