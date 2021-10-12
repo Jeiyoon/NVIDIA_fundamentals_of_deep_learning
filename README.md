@@ -76,4 +76,4 @@
 
 
 
-[<img src = "./imgs/logo_tave.png" width="20%">](https://tavewave.github.io/)  [<img src = "./imgs/logo_tave_research.png" width="40%">](https://taveresearch.github.io/) [<img src = "./imgs/nvidia.png" width="19%">](https://www.nvidia.com/en-us/)  
+[<img src = "./imgs/logo_tave.png" width="20%">](https://tavewave.github.io/)  [<img src = "./imgs/logo_tave_research.png" width="40%">](https://taveresearch.github.io/) [<img src = "./imgs/nvidia.png" width="19.5%">](https://www.nvidia.com/en-us/)  
