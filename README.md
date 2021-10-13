@@ -38,7 +38,8 @@
 
 ### 3) Batch Normalization
 
-- Batch Normalization in Neural Networks: https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+- ~~Batch Normalization in Neural Networks: https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c~~
+- Introduction to Batch Normalization: https://www.analyticsvidhya.com/blog/2021/03/introduction-to-batch-normalization/
 - Batch Norm (Andrew Ng): https://www.youtube.com/watch?v=nUUqwaxLnWs
 - Batch Normalization (DeepLizard): https://www.youtube.com/watch?v=dXB-KQYkzNU
 
