@@ -80,4 +80,4 @@
 &nbsp;
 
 
-[<img src = "./imgs/DLI_Header.png" width="40%">](https://www.nvidia.com/en-us/)  
+[<img src = "./imgs/DLI_Header_bg.png" width="40%">](https://www.nvidia.com/en-us/)  
