@@ -1,6 +1,15 @@
 ## 1. Codes
 
-- TBA
+- 00_jupyterlab
+- 01_mnist
+- 02_asl
+- 03_asl_cnn
+- 04a_asl_augmentation
+- 04b_asl_predictions
+- 05a_doggy_door
+- 05b_presidential_doggy_door
+- 06_headline_generator
+- 07_assessment
 
 ## 2. Topics
 
