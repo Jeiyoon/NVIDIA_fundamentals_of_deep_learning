@@ -41,6 +41,8 @@
 
 - Adagrad optimizer (minutes 5:29 - 9:19): https://www.youtube.com/watch?v=gmwxUy7NYpA [✔]
 
+- Understanding the Mathematics behind Gradient Descent: https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
+
 ### 2) Cross Entropy
 
 - Entropy, Cross Entropy … (Aurelien Geron): https://www.youtube.com/watch?v=ErfnhcEV1O8
