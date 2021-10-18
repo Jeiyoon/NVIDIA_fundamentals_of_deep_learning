@@ -43,6 +43,8 @@
 
 - Understanding the Mathematics behind Gradient Descent: https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e
 
+- Momentum & Nesterov momentum: https://tensorflow.blog/2017/03/22/momentum-nesterov-momentum/
+
 ### 2) Cross Entropy
 
 - Entropy, Cross Entropy … (Aurelien Geron): https://www.youtube.com/watch?v=ErfnhcEV1O8
